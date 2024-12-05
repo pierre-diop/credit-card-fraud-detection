@@ -1,6 +1,6 @@
 # credit-card-fraud-detection
 
-## Machine Learning Capstone Project: Credit Card Fraud Detection
+## Machine Learning Capstone Project - Credit Card Fraud Detection
 This project represents a comprehensive machine learning capstone focused on detecting credit card fraud. It follows a structured workflow to build, optimize, and deploy a predictive model capable of identifying potentially fraudulent transactions.
 
 ## Objective
